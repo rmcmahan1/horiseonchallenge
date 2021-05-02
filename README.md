@@ -13,6 +13,9 @@ Built with
 
 # Screenshots
 
-!(./screenshot1.jpg)
 
 ![Screenshot](Develop/screenshot1.jpg)
+
+![Screenshot](Develop/screenshot2.jpg)
+
+![Screenshot](Develop/screenshot3.jpg)
